@@ -1,2 +1,0 @@
-# ELITO
-template for imcamp
